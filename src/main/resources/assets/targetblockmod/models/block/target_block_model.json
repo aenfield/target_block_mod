@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "targetblockmod:blocks/target",
+        "up": "targetblockmod:blocks/target",
+        "north": "targetblockmod:blocks/target",
+        "east": "targetblockmod:blocks/target",
+        "south": "targetblockmod:blocks/target",
+        "west": "targetblockmod:blocks/target",
+        "particle": "blocks/lapis_block"
+    }
+} 
